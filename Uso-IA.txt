@@ -1,0 +1,40 @@
+DECLARACIÓN DE USO DE INTELIGENCIA ARTIFICIAL 
+Proyecto EID – Cálculo Intermedio (MATE1134) 
+Grupo 06 
+Integrantes: Camila Mardones, Beatriz Martin y Patricio Salazar
+
+En el desarrollo de nuestro proyecto sobre la integral definida y el área geométrica utilizamos herramientas de inteligencia artificial como apoyo para resolver dudas y trabajar en algunos aspectos técnicos y de redacción. Las herramientas utilizadas fueron Google Gemini y ChatGPT.
+
+1.  ¿PARA QUÉ UTILIZAMOS IA?
+
+Google Gemini: 
+- Consultamos explicaciones sobre conceptos relacionados con las integrales definidas, las áreas con signo y el valor absoluto. 
+- Lo utilizamos como apoyo para escribir y comprender partes del código de la animación realizada con Manim. 
+- Pedimos orientación para identificar y solucionar errores que surgieron durante la programación. 
+- Recibimos ayuda para organizar referencias bibliográficas.
+
+ChatGPT: 
+- Lo utilizamos para resolver dudas sobre Python y algunas funciones de Manim, como la creación de ejes, el sombreado de áreas y las transformaciones. 
+- Pedimos apoyo para revisar la coherencia entre la animación, los cálculos matemáticos y el guion del video. 
+- Lo usamos para mejorar la redacción y organización de materiales complementarios, como el README, los comentarios del código y la documentación de entrega. 
+- Consultamos cómo ejecutar el proyecto y cómo documentar las herramientas utilizadas, incluido MiKTeX.
+
+2.  ¿QUÉ HICIMOS NOSOTROS?
+
+Como grupo, trabajamos en la investigación de los conceptos solicitados, la preparación del ejemplo matemático, la explicación de los resultados y la elaboración del video. También escribimos el código base, revisamos cómo se veía la animación y realizamos ajustes para que la representación gráfica coincidiera con lo que queríamos explicar.
+
+El ejercicio utilizado fue f(x) = x² - 4 en el intervalo [0, 3]. Comprobamos que la integral definida es -3 y que el área geométrica total es 23/3, aproximadamente 7,67. Esta diferencia es el punto principal de nuestro proyecto: la integral definida considera contribuciones positivas y negativas, mientras que el área geométrica suma las magnitudes de ambas regiones.
+
+3.  ¿CÓMO REVISAMOS LA INFORMACIÓN?
+
+No consideramos las respuestas de las herramientas de IA como resultados definitivos. Contrastamos las explicaciones y los procedimientos matemáticos con el material de la asignatura y las fuentes de cálculo consultadas.
+
+En la parte de programación, verificamos las sugerencias ejecutando el proyecto con Manim y observando el video generado. Cuando aparecieron problemas técnicos, revisamos el comportamiento del código e hicimos los ajustes necesarios. Por ejemplo, utilizamos MiKTeX para permitir el procesamiento de las expresiones escritas en LaTeX dentro de la animación.
+
+4.  RESPONSABILIDAD DEL GRUPO
+
+La inteligencia artificial fue una herramienta de apoyo y no reemplazó nuestro trabajo ni nuestra responsabilidad sobre la entrega. Las decisiones sobre el contenido del video, las explicaciones, los resultados presentados y la versión final del código corresponden al grupo.
+
+Reconocemos que las herramientas de IA pueden entregar respuestas incorrectas o incompletas. Por eso, procuramos revisar la información antes de incorporarla al proyecto y prepararnos para explicar tanto el procedimiento matemático como el funcionamiento general de la animación.
+
+Esta declaración busca transparentar de manera clara el uso que hicimos de estas herramientas durante el desarrollo del proyecto.
